@@ -1,0 +1,1 @@
+insert into lembrete (conteudo, arquivado, prioridade) values ('Lembrete teste', false, 'BAIXA');
